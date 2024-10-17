@@ -2,7 +2,11 @@
   "name": "bulk-empty-files",
   "displayName": "Bulk Empty Files",
   "description": "Bulk Empty Files is a VS Code extension that allows you to quickly and easily create multiple empty files at once. Whether you're setting up a project structure or just need to generate placeholder files, this extension saves time by automating the process. Simply specify the filenames and the extension will handle the rest, instantly creating the files in your workspace.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotCarlosSerrano/vscode-bulk-empty-files"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },
